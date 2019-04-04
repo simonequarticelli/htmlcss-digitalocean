@@ -212,3 +212,6 @@ ul{
 .tabella a:hover{
   color:#0069ff;
 }
+td:last-child{
+  text-align: right;
+}
