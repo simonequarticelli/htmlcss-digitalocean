@@ -75,7 +75,6 @@ a:focus, a:hover{
   line-height: 70px;
   font-weight: bold;
   color:#0069ff;
-  margin-right: -20px;
 }
 .nav_logo_menu ul li{
   display: inline-block;
